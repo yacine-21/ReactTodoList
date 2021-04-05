@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-ouai ouai
+THIS IS A REACT PROJET, I FOLLOWED A TUTORIAL ON YOUTUBE, I'M LEARNING USING REACT SO HERE A SIMPLE TO DO LIST : THE TUTO : https://www.youtube.com/watch?v=pCA4qpQDZD8&ab_channel=DevEd
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
